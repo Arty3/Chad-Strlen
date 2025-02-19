@@ -11,9 +11,7 @@
 - Very, very fast
 
 ## Limitations
-- Requires GNUC features, also found in clang,
-<br>
-but will fallback to a simple strlen implementation
+- Requires GNUC features (also found within clang)
 
 ## Usage
 I strongly recommend you use
