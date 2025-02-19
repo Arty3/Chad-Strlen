@@ -1,4 +1,4 @@
-# The Chad Strlen
+# :fire: The Chad Strlen :fire:
 
 ###### _Some guys were competing to make the fastest strlen, so I took it personally_
 
