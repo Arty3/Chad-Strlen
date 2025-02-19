@@ -1,6 +1,6 @@
-# :fire: The Chad Strlen :fire:
+<h1 align="center">🔥 The Chad Strlen 🔥</h1>
 
-###### _Some guys were competing to make the fastest strlen, so I took it personally_
+<h6 align="center"><em>Some guys were competing to make the fastest strlen, so I took it personally</em></h6>
 
 ## Features
 - Supports virtually every architecture
