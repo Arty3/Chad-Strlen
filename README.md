@@ -1,6 +1,6 @@
 <h1 align="center">🔥 The Chad Strlen 🔥</h1>
 
-<h6 align="center"><em>Some guys were competing to make the fastest strlen, so I took it personally</em></h6>
+<h6 align="center"><em>Some guys were competing to make the fastest strlen, and I took it personally</em></h6>
 
 ## Features
 - Supports virtually every architecture
@@ -16,15 +16,15 @@
 ## Usage
 I strongly recommend you use
 [GCC](https://gcc.gnu.org/) or
-[CLANG](https://clang.llvm.org/)
+[clang](https://clang.llvm.org/)
 to compile it,
 <br>
 Then, simply include this implementation in your project.
 <br><br>
-Using `GCC` or `CLANG`, the function will automatically alias to `strlen`,
+Using `GCC` or `clang`, the function will automatically alias to `strlen`,
 <br>
 so you can just use it like you would with a regular `strlen`:
-```C
+```c
 // Change this to whichever header it's defined in
 #include "strlen_implementation.h"
 
